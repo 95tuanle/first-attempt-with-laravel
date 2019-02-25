@@ -1,1 +1,2 @@
-# First-Attemp-With-Laravel
+# First Attemp With Laravel
+A simple web with Laravel
